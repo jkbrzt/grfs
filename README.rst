@@ -7,6 +7,10 @@ photos on a Ricoh GR II camera over the built-in WiFi feature and the HTTP API
 the camera exposes.
 
 
+.. image:: https://raw.githubusercontent.com/jkbrzt/grfs/master/grii.jpg
+
+
+
 Why?
 ====
 
