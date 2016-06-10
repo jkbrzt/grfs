@@ -10,7 +10,7 @@ def long_description():
 
 setup(
     name='grfs',
-    version='0.1',
+    version='0.1.1',
     description='Ricoh GR II file system',
     long_description=long_description(),
     url='https://github.com/jkbrzt/grfs',
