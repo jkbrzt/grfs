@@ -14,9 +14,15 @@ the camera exposes.
 Why?
 ====
 
-This library was created to experiment with the REST-ish API the Ricoh GR II
-exposes for the
-`GR Remote <http://www.ricoh-imaging.co.jp/english/products/gr_remote/>`_ web-based app.
+To be able to import photos to a computer wirelesly. 
+For example, if you have a computer without an SD card reader
+and without USB ports (looking at you, 2016 MacBook Pro).
+
+This library was also created to experiment with the REST-ish API the Ricoh GR II
+exposes for the 
+`GR Remote <http://www.ricoh-imaging.co.jp/english/products/gr_remote/>`_ 
+web-based app. 
+
 
 
 Status
