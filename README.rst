@@ -16,7 +16,7 @@ Why?
 
 To be able to batch import photos from the camera to a computer wirelesly. 
 For example, you might have a computer without an SD card reader
-and without USB ports so this `grfs` can be used as a work around (looking at you, 2016 MacBook Pro).
+and without USB ports (looking at you, 2016 MacBook Pro) and ``grfs`` can be used as a work around.
 
 This library was also created to experiment with the REST-ish API the Ricoh GR II
 exposes for the 
