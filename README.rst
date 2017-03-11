@@ -43,8 +43,8 @@ available.
 Installation
 ============
 
-1. Install FUSE on your system (e.g. ``$ brew install osxfuse``)
-2. Install this package ``$ pip install grfs``
+1. Install FUSE on your system (e.g. ``brew install osxfuse``)
+2. Install this package ``pip install grfs``
 
 
 Usage
@@ -53,15 +53,16 @@ Usage
 1. Turn on your Ricoh GR II
 2. Turn on the WiFi feature on the camera
 3. Connect your computer to the WiFi network from the camera
-4. Mount the camera ``$ mkdir ~/GR; grfs ~/GR`` (create the mountpoint directory first)
-5. Access your files ``$ ls -l ~/GR`` (or from you system file browser)
+4. Mount the camera ``grfs ~/GR`` (create the mountpoint directory first — ``mkdir ~/GR``)
+5. Access your files ``ls -l ~/GR`` (or from you system file browser)
 
 
 
-## Contact
+Contact
+=======
 
 Jakub Roztocil
 
-* [https://github.com/jakubroztocil](https://github.com/jakubroztocil)
-* [https://twitter.com/jakubroztocil](https://twitter.com/jakubroztocil)
-* [http://roztocil.co](http://roztocil.co)
+* https://github.com/jakubroztocil
+* https://twitter.com/jakubroztocil
+* https://roztocil.co
