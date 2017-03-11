@@ -7,7 +7,7 @@ photos on a Ricoh GR II camera over the built-in WiFi feature and the HTTP API
 the camera exposes.
 
 
-.. image:: https://raw.githubusercontent.com/jkbrzt/grfs/master/grii.jpg
+.. image:: https://raw.githubusercontent.com/jakubroztocil/grfs/master/grii.jpg
 
 
 
@@ -50,3 +50,12 @@ Usage
 4. Mount the camera ``$ mkdir ~/GR; grfs ~/GR`` (create the mountpoint directory first)
 5. Access your files ``$ ls -l ~/GR`` (or from you system file browser)
 
+
+
+## Contact
+
+Jakub Roztocil
+
+* [https://github.com/jakubroztocil](https://github.com/jakubroztocil)
+* [https://twitter.com/jakubroztocil](https://twitter.com/jakubroztocil)
+* [http://roztocil.co](http://roztocil.co)
