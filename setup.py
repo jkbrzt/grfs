@@ -26,7 +26,7 @@ setup(
     },
     install_requires=[
         'fusepy==2.0.4',
-        'requests==2.10.0'
+        'requests==2.20.0'
     ],
     classifiers=[],
 )
