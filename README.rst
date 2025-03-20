@@ -63,6 +63,6 @@ Contact
 
 Jakub Roztocil
 
-* https://github.com/jakubroztocil
-* https://twitter.com/jakubroztocil
+* https://github.com/jkbrzt
+* https://twitter.com/jkbrzt
 * https://roztocil.co
